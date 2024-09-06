@@ -17,7 +17,7 @@ Usage
 
 Import the component and use it in your component.
 
-```sveltehtml
+```svelte
 <script lang="ts">
     import {Tipex} from "@friendofsvelte/tipex";
     export let htmlContent = `<p>This <a target="_blank" rel="noopener noreferrer" href="">content</a> is written by <a target="_blank" rel="noopener noreferrer" href="http://bishwas.net/">Bishwas</a> in 2023.</p>`;
